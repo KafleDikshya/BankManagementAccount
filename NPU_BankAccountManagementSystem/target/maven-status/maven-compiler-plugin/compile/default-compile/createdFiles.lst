@@ -1,0 +1,15 @@
+com\mycompany\dao\AccountDAO.class
+com\mycompany\command\LoginCommand.class
+com\mycompany\command\TransferAmountCommand.class
+com\mycompany\configurator\SpringRootConfig.class
+com\mycompany\controller\AccountController.class
+com\mycompany\configurator\SpringWebConfig.class
+com\mycompany\controller\DbConnection.class
+com\mycompany\dao\UserDAO.class
+com\mycompany\controller\UserController.class
+com\mycompany\dao\AccountDAOImplement.class
+com\mycompany\configurator\DispatcherServletInitializer.class
+com\mycompany\domain\Accounts.class
+com\mycompany\dao\DatabaseVariable.class
+com\mycompany\domain\Users.class
+com\mycompany\dao\UserDAOImplement.class
